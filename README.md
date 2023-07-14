@@ -1,4 +1,4 @@
-#Zakariah's Project Preparation Guidelines
+# Zakariah's Project Preparation Guidelines
 
 When preparing your project for class, keep the following guidelines in mind:
 
