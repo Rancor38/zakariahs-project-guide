@@ -1,6 +1,6 @@
 # Zakariah's Project Preparation Guidelines
 
-When preparing your project for class, keep the following guidelines in mind:
+When preparing your project for class, keep the following guidelines in mind.
 
 ## Portfolio Function
 
